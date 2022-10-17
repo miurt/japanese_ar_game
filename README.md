@@ -25,7 +25,7 @@
 
 • You can see what you need to do by pushing (!) (button on the bottom right)
 
-• To interact with objects/NPCs use the interaction button (??)
+• To interact with objects/NPCs use the interaction button (🔍)
 
 • When a microphone button appears, you need to use speech input
 
