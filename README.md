@@ -14,7 +14,7 @@
 • The game will ask you for permissions to use the camera and microphone
 
 
-![UI Dialog](/readme_images/game_dialog_guide.jpg) ![Normal UI](/readme_images/game_shop2 .jpg)
+![UI Dialog](/readme_images/game_dialog_guide.jpg) ![Normal UI](/readme_images/game_shop2.jpg)
 
 ### Instructions for the game:
 • In AR scenes you usually need to find a plane. Try zooming in/out, changing the camera's angle
