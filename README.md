@@ -1,6 +1,6 @@
 ﻿# japanese_ar_game
 
-## Bachelor's Thesis Project: : an android game for learning Japanese with AR and speech input/output
+## Bachelor's Thesis Project: an android game for learning Japanese with AR and speech input/output
 
 ### Limitations: 
 • Currently only works on Android devices supporting ARCore
